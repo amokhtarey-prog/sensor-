@@ -1,0 +1,308 @@
+{
+  "window": "Hacker News top stories",
+  "generated": "2026-10-25T12:30:15Z",
+  "stories": [
+    {
+      "priority": "MEDIUM",
+      "headline": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "summary": "283 points, 173 comments, by vrganj.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "confirm_url": "https://news.ycombinator.com/item?id=50229587"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "summary": "29 points, 6 comments, by tosh.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://github.com/ihhub/fheroes2",
+      "confirm_url": "https://news.ycombinator.com/item?id=50230384"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "We should be more ambitious with the software we build",
+      "summary": "490 points, 421 comments, by ltratt.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://danluu.com/ambitious/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Cerebras Deploys Trillion-Parameter AI Models",
+      "summary": "214 points, 67 comments, by gmays.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "confirm_url": "https://news.ycombinator.com/item?id=50227356"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "summary": "69 points, 29 comments, by mashally.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "confirm_url": "https://news.ycombinator.com/item?id=50230181"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "How Japanese Dried Bonito Is Made",
+      "summary": "69 points, 21 comments, by bookofjoe.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "official_url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+      "confirm_url": "https://news.ycombinator.com/item?id=50193936"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "The Goose Programming Language",
+      "summary": "443 points, 271 comments, by bobbydigitales.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://aardappel.github.io/goose/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50224100"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Rewriting a Commercial Engine in Jai",
+      "summary": "41 points, 28 comments, by frading.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "official_url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+      "confirm_url": "https://news.ycombinator.com/item?id=50194645"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "SpeedCrunch 1.1",
+      "summary": "168 points, 32 comments, by LordNibbler.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://www.speedcrunch.org/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50224210"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Small Programs and Languages",
+      "summary": "131 points, 18 comments, by andsoitis.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://ratfactor.com/cards/pl-small",
+      "confirm_url": "https://news.ycombinator.com/item?id=50225674"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "summary": "24 points, 2 comments, by thunderbong.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "confirm_url": "https://news.ycombinator.com/item?id=50229827"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "XPS 16 Creator Edition Laptop",
+      "summary": "6 points, 2 comments, by mudil.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-20",
+      "official_url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
+      "confirm_url": "https://news.ycombinator.com/item?id=50169939"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Reverse engineer of PC-98 Touhou games retires",
+      "summary": "17 points, 13 comments, by mimasama.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "official_url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "confirm_url": "https://news.ycombinator.com/item?id=50197434"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Why Gopher in 2026?",
+      "summary": "89 points, 35 comments, by andsoitis.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "confirm_url": "https://news.ycombinator.com/item?id=50226577"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "summary": "1607 points, 249 comments, by sohkamyung.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-22",
+      "official_url": "https://edjefferson.com/localwiki/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50202285"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "summary": "390 points, 404 comments, by gnabgib.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "confirm_url": "https://news.ycombinator.com/item?id=50226419"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "summary": "337 points, 160 comments, by theanonymousone.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "confirm_url": "https://news.ycombinator.com/item?id=50219177"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "I don't understand quantum physics (2018)",
+      "summary": "328 points, 259 comments, by rramadass.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "confirm_url": "https://news.ycombinator.com/item?id=50219666"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "The Importance of Limitations for Creativity and Learning (2023)",
+      "summary": "85 points, 25 comments, by andsoitis.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://ratfactor.com/cards/limitations",
+      "confirm_url": "https://news.ycombinator.com/item?id=50225663"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Online censorship is crushing indie webcomics",
+      "summary": "90 points, 64 comments, by Tomte.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+      "confirm_url": "https://news.ycombinator.com/item?id=50229599"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "FreeDNS",
+      "summary": "307 points, 83 comments, by esher.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://freedns.afraid.org/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50222133"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "I Built a Stereo Vision Board for Hardware Hackers",
+      "summary": "88 points, 16 comments, by machinehum.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-20",
+      "official_url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50172432"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Social dynamics of toxic metal industry in medieval Europe",
+      "summary": "58 points, 30 comments, by XzetaU8.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-20",
+      "official_url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "confirm_url": "https://news.ycombinator.com/item?id=50169450"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "summary": "269 points, 73 comments, by fragebogen.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://github.com/Zagitta/gpu-unlock",
+      "confirm_url": "https://news.ycombinator.com/item?id=50219700"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "A story of a Figma bug that wasn't a bug at all (2021)",
+      "summary": "40 points, 3 comments, by jllyhill.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-21",
+      "official_url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50186289"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Neural chip decodes interactions between brain regions",
+      "summary": "112 points, 43 comments, by giuliomagnifico.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50222525"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+      "summary": "94 points, 81 comments, by noplay.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-25",
+      "official_url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+      "confirm_url": "https://news.ycombinator.com/item?id=50229861"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "summary": "125 points, 39 comments, by schleck8.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://de.numista.com/9866",
+      "confirm_url": "https://news.ycombinator.com/item?id=50222927"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Physicists trap a single antimatter particle for a month",
+      "summary": "316 points, 89 comments, by mooreds.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-21",
+      "official_url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50186450"
+    },
+    {
+      "priority": "MEDIUM",
+      "headline": "Bbtree: Fastest Ordered Map",
+      "summary": "125 points, 15 comments, by aoli-al.",
+      "category": "Hacker News",
+      "source": "Hacker News",
+      "date": "2026-10-24",
+      "official_url": "https://bbtree.xiangpeng.systems/post/",
+      "confirm_url": "https://news.ycombinator.com/item?id=50223777"
+    }
+  ],
+  "coverage": "Hacker News API, no key required.",
+  "gaps": []
+}
